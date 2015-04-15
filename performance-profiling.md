@@ -349,5 +349,5 @@ d8 --trace-deopt
   [slides](http://commondatastorage.googleapis.com/io-2013/presentations/223.pdf)
 - [video: structural and sampling profiling in google chrome](https://www.youtube.com/watch?v=nxXkquTPng8) |
   [slides](https://www.igvita.com/slides/2012/structural-and-sampling-javascript-profiling-in-chrome.pdf)
-- [v8 profiler](https://code.google.com/p/v8/wiki/V8Profiler)
+- [v8 profiler](https://code.google.com/p/v8-wiki/wiki/V8Profiler)
 - [stackoverflow: how to debug nodejs applications](http://stackoverflow.com/a/16512303/97443)
